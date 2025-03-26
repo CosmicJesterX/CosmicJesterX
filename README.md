@@ -1,6 +1,6 @@
 👾 Welcome to Fragle's Cyber Lair! 🎩💻
 
-The Digital Playground of Mischief & Innovation 🚀
+The Digital Playground of "Mischief" & Innovation 🚀
 
 Hey there, netrunner! You've stumbled upon Fragle, a chaotic good white-hat trickster of the digital realms. Whether you're here to learn, collaborate, or just vibe with some neon-glitched nonsense, you're in the right place. 😆💀
 
@@ -30,4 +30,4 @@ Hey there, netrunner! You've stumbled upon Fragle, a chaotic good white-hat tric
 
 ⚡ Fun Fact: Once convinced an AI to believe it was a sentient toaster. 🍞🔥
 
-🔥 Life Motto: "If it ain’t broke, tweak it until it is."
+🔥 Toaster: "If it ain’t broke, tweak it until it is."
